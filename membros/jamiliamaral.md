@@ -11,3 +11,7 @@ socorro
 Trabalho em equipe
 Boa comunicação com o publico
 Inglês intermediario
+
+# Interesses
+
+ter um emprego 
